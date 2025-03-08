@@ -37,5 +37,5 @@ Este projeto é uma aplicação web com a finalidade de sortear um amigo secreto
  git clone https://github.com/GleiceAraujo22/challenge-amigo-secreto.git
 ´
 ```
-2. Abra o arquivo `ìndex.html` no seu navegador ou use a aplicação que foi publicada [nesta pagina]()
+2. Abra o arquivo `ìndex.html` no seu navegador ou experimentea utilizar a aplicação que foi publicada [nesta pagina](https://sorteador-amigo-secreto-murex.vercel.app/)
 
