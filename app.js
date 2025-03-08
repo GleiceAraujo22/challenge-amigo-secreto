@@ -72,7 +72,7 @@ function sortearAmigo(){
     resultado.innerHTML =  `<li class="sorteado">🎉 O amigo secreto sorteado é: ${amigoSorteado}! 🎁</li>`;
 
     
-
+//função para limpar lista
     let limparLista = document.getElementById('listaAmigos');
     limparLista.innerHTML = "";
     amigos = [];
