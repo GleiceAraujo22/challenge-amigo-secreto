@@ -236,3 +236,24 @@ ul {
 } 
 
 
+@media (max-width: 1200px) {
+    .main-content {
+        padding: 10%
+    } 
+
+    .header-banner img{
+         
+        justify-content: center;
+    
+    }
+    
+    .main-title { 
+        justify-content: center;
+        width: auto;
+    } 
+
+    .section-title {
+        justify-content: center;
+    
+} 
+}
