@@ -22,7 +22,9 @@ Este projeto é uma aplicação web com a finalidade de sortear um amigo secreto
 
 ## A Aplicação 
 
-![Exemplo da aplicação web](imagens/aplicacaoEx1.gif) 
+![Exemplo da aplicação web](imagens/aplicacaoEx1.gif)  
+
+![xemplo 2 da aplicação web](imagens/aplicacaoEx2.gif)
 
 ## Ferramentas utilizadas 
 
@@ -38,4 +40,16 @@ Este projeto é uma aplicação web com a finalidade de sortear um amigo secreto
 ´
 ```
 2. Abra o arquivo `ìndex.html` no seu navegador ou experimentea utilizar a aplicação que foi publicada [nesta pagina](https://sorteador-amigo-secreto-murex.vercel.app/)
+
+
+## Melhorias no Projeto 
+
+- Em breve...
+
+
+## Desenvolvedores do Projeto
+
+| [<img src="https://avatars.githubusercontent.com/u/111028971?v=4" width=115><br><sub>Gleice Araújo</sub>](https://github.com/GleiceAraujo22) |
+| :---: |
+
 
